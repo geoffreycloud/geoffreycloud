@@ -16,6 +16,7 @@
 
 * :mailbox_with_mail: Contact
    * <a href=gcloud@charlotte.edu>gcloud@charlotte.edu</a>
-   * <a href=https://www.linkedin.com/in/geoffrey-cloud-18b107181/>LinkedIn</a> 
+   * <a target="_blank" href=https://www.linkedin.com/in/geoffrey-cloud-18b107181/>LinkedIn</a> 
+
 
 
