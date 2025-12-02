@@ -3,7 +3,7 @@
 # Here's a bit of info about myself
 
 * About me
-   * :boom: I’m a Data Engineer who is passionate about building efficient data pipelines and scalable data processing solutions.
+   * :boom: I’m a Data Engineer who specializes in building efficient data pipelines and scalable data processing solutions.
    * :seedling:As a self-taught professional, I’m always learning and exploring new cloud and big data technologies to enhance my work.
 
 * :trophy: Current Goals
@@ -17,6 +17,7 @@
 * :mailbox_with_mail: Contact
    * <a href=gcloud@charlotte.edu>gcloud@charlotte.edu</a>
    * <a target="_blank" href=https://www.linkedin.com/in/geoffrey-cloud-18b107181/>LinkedIn</a> 
+
 
 
 
