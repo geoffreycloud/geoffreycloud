@@ -10,6 +10,7 @@
    * :star: Deepening knowledge in modern Data Engineering and largescale data processing.
    * :star: Building hands-on experience with DevOps, automation, and continuous integration/deployment (CI/CD).
    * :star: Completing additional certifications to strengthen technical depth.
+   * :star: Attaining my Master's degree in Computer Science with a concentration in Data Science from UNC Charlotte! #GONINERS
 
 * :clipboard: My Certifications
    * [AWS Academy - Data Engineering](https://www.credly.com/badges/0a9f9210-da55-4604-8d37-c07139373d46)
@@ -18,6 +19,7 @@
 * :mailbox_with_mail: Contact
    * <a href=gcloud@charlotte.edu>gcloud@charlotte.edu</a>
    * <a target="_blank" href=https://www.linkedin.com/in/geoffrey-cloud-18b107181/>LinkedIn</a> 
+
 
 
 
