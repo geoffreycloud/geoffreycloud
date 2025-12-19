@@ -11,10 +11,13 @@
 
 * :clipboard: My Certifications
    * [AWS Academy - Data Engineering](https://www.credly.com/badges/0a9f9210-da55-4604-8d37-c07139373d46)
+ 
+* [Checkout my portfolio!](https://github.com/geoffreycloud/portfolio)
 
 * :mailbox_with_mail: Contact
    * <a href=gcloud@charlotte.edu>gcloud@charlotte.edu</a>
    * <a target="_blank" href=https://www.linkedin.com/in/geoffrey-cloud-18b107181/>LinkedIn</a> 
+
 
 
 
