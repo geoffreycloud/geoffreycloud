@@ -3,8 +3,8 @@
 [Checkout my portfolio!](https://github.com/geoffreycloud/portfolio)
 
 * About me
-   * :boom: I am a Graduate student specializing in building insightful data visualizations, efficient data pipelines, and scalable data processing solutions.
-   * :seedling: As a self taught professional, I’m always learning and exploring new cloud and big data technologies to enhance my work.
+   * I am a Graduate student specializing in building insightful data visualizations, efficient data pipelines, and scalable data processing solutions.
+   * As a self taught professional, I’m always learning and exploring new cloud and big data technologies to enhance my work.
 
 * :trophy: Current Goals
    * :star: Deepening knowledge in modern Data Engineering and largescale data processing.
