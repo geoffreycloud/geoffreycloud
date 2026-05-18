@@ -7,10 +7,10 @@
    * As a self taught professional, I’m always learning and exploring new cloud and big data technologies to enhance my work.
 
 * :trophy: Current Goals
-   * :star: Deepening knowledge in modern Data Engineering and largescale data processing.
-   * :star: Building hands-on experience with DevOps, automation, and continuous integration/deployment (CI/CD).
-   * :star: Completing additional certifications to strengthen technical depth.
-   * :star: Attaining my Master's degree in Computer Science with a concentration in Data Science from UNC Charlotte! #GONINERS
+   * Deepening knowledge in modern Data Engineering and largescale data processing.
+   * Building hands-on experience with DevOps, automation, and continuous integration/deployment (CI/CD).
+   * Completing additional certifications to strengthen technical depth.
+   * Attaining my Master's degree in Computer Science with a concentration in Data Science from UNC Charlotte! #GONINERS
 
 * :clipboard: My Certifications
    * [AWS Academy - Data Engineering](https://www.credly.com/badges/0a9f9210-da55-4604-8d37-c07139373d46)
